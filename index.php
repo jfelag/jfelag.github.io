@@ -12,13 +12,11 @@ include ("header.html");
 
 <?php
 
-include ("footer.html");
+include ("footer.php");
 
 
 ?>
-<footer class="container-fluid text-center">
-  <p>Jack Felag. 2017.</p>
-</footer>
+
 
 </body>
 </html>

@@ -28,9 +28,12 @@ include ("header.html");
 
 <br><br>
 
-<footer class="container-fluid text-center">
-  <p>Jack Felag. 2017.</p>
-</footer>
+<?php
+
+include ("footer.php");
+
+
+?>
 
 </body>
 </html>
